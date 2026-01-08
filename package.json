@@ -1,0 +1,25 @@
+{
+  "name": "phonk-devops",
+  "version": "1.0.0",
+  "description": "boiii waht u say about la phonki",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Terence-git/phonk-devops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Terence-git/phonk-devops/issues"
+  },
+  "homepage": "https://github.com/Terence-git/phonk-devops#readme",
+  "devDependencies": {
+    "csslint": "^1.0.5",
+    "htmlhint": "^1.8.0"
+  }
+}
